@@ -1,4 +1,3 @@
-..
 organization in ThisBuild := "com.example"
 version in ThisBuild := "1.0-SNAPSHOT"
 
