@@ -1,2 +1,15 @@
-*.class
-*.log
+target
+.idea
+.idea/*
+ideatarget
+.target
+bin
+.cache
+.cache-main
+.cache-tests
+.classpath
+.project
+.tmpBin
+.factorypath
+.settings
+logs
